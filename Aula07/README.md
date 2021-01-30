@@ -4,7 +4,7 @@
 
 Este projeto foi baseado no seguinte diagrama de classes:
 
-<img src="diagramaClassesUEC.png">
+<img src="diagramaClassesUEC.PNG">
 
 
 
@@ -13,4 +13,5 @@ Este projeto foi baseado no seguinte diagrama de classes:
 * Relacionamento entre classes;
 * Objetos compostos;
 * Relacionamento de agregação;
-* Agregação entre Objetos.
+* Agregação entre objetos;
+* Tipo abstrato de dados.
