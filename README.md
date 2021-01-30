@@ -14,4 +14,6 @@ Playlist disponível em: https://www.youtube.com/watch?v=Ucyx_QPfDng&list=PLHz_A
 
 * Encapsulamento;
 
+* Relacionamento entre classes.
+
   
