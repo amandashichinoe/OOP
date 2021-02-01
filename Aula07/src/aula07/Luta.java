@@ -44,6 +44,10 @@ public class Luta {
             this.desafiante.apresentar();
             
             Random aleatorio = new Random();
+            rounds = aleatorio.nextInt(3) + 1;
+            System.out.println("Número de Rounds: " + rounds);
+            for(int i = 0; i<=rounds; i++){
+                
             int vencedor = aleatorio.nextInt(3);
             System.out.println("======== RESULTADO DA LUTA =========");
             switch(vencedor){
@@ -67,6 +71,7 @@ public class Luta {
                         break;
             }
             System.out.println("====================================");
+            }
         }else{
             System.out.println("A luta não pode acontecer.");
         }
