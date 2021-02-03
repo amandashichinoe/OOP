@@ -8,7 +8,7 @@ Diagrama de Classes do projeto:
 
 
 
-![Diagrama-de-Classes-Projeto-Final](.\DiagramaPrjFinal.PNG)
+<img src="DiagramaPrjFinal.png">
 
 
 
