@@ -4,7 +4,7 @@
 
 Este projeto foi baseado no seguinte diagrama de classes:
 
-<img src="diagClassLivro.png">
+<img src="diagClassLivro.PNG">
 
  
 
