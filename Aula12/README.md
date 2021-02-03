@@ -1,6 +1,6 @@
 # Aula 12
 
-## Classe Animal 
+## Classe Animal :dog::turtle::snake::fish::bird:
 
-Projeto aplicando o tipo de Polimorfismo _Override_.
+Projeto aplicando o **Polimorfismo** do tipo **Sobreposição** (_Override_).
 
