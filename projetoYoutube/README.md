@@ -8,7 +8,7 @@ Diagrama de Classes do projeto:
 
 
 
-<img src="DiagramaPrjFinal.png">
+<img src="diagramaPrj.png">
 
 
 
